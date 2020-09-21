@@ -9,7 +9,7 @@ Well... here is the best way to get Spotify Premium free for Windows or Mac!
 4. Paste this code at the end
 
 
-`0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 adclick.g.doublecklick.net
 
 0.0.0.0 adeventtracker.spotify.com
 
@@ -83,7 +83,7 @@ Well... here is the best way to get Spotify Premium free for Windows or Mac!
 
 0.0.0.0 www.googletagservices.com
 
-0.0.0.0 www.omaze.com`
+0.0.0.0 www.omaze.com 
 
 5. Save the file and cut-paste it to the original place ie.`C:\Windows\System32\drivers\etc`....
 6. Replace the file and Give Administrator Rights for it to replace.
